@@ -1,5 +1,7 @@
 body {
   background-image: url("noice.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 
 .marquee {
